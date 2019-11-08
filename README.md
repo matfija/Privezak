@@ -1,1 +1,10 @@
-# Privezak
+#### 3D model
+<img width="750" src="https://raw.githubusercontent.com/matfija/Privezak/master/rezultat.png">
+<img width="750" src="https://raw.githubusercontent.com/matfija/Privezak/master/rezultat.jpg">
+
+## Privezak :key:
+Projektni zadatak na kursu Geometrija. Cilj je bio u programu po izboru napraviti 3D model geometrijskog objekta koji ima umetničku, pedagošku i/ili praktičnu primenu. Organizovano je [glasanje](http://poincare.matf.bg.ac.rs/~tijana/geometrija/seminarski/seminarski_2017/seminarski_2017.htm) za najbolji model, na kom je rad zauzeo treće mesto u konkurenciji od sedmoro kolega, a pobednički je trebalo da bude odštampan fakultetskim 3D štampačem.
+
+Model predstavlja minimalistički stilizovan privezak sa obeležjem Matematičkog fakulteta i Geometrije kao kursa u okviru kojeg je nastao, akademske 2017/18. godine. Iako prvenstveno namenjen za ključeve, mogao bi se upotrebiti kao bilo koji drugi viseći ukras ili čak (komercijalni) suvenir ili promotivni proizvod u izdanju fakulteta. Sa statističke strane gledano, prototip su činile 71472 tačke i 23824 površi, dok je konačna verzija sačinjena od 45030 tačaka i 15010 lica. Iako nije pobedio u glasanju, model je odštampan u toku leta 2019. godine i uspešno obavlja ulogu za koju je namenjem.
+
+Jedan od ciljeva projektnog zadatka bio je i upoznavanje sa različitim programima za kompjuterski potpomognut dizajn (CAD), kao i različitim formatima koji opisuju 3D modele objekata. U skladu sa tim, oprobani su tradicionalni [OpenCAD](https://opencad.io/) i [SolidWorks](https://www.solidworks.com/), interaktivni [SculptGL](https://stephaneginier.com/sculptgl/) i [Microsoft 3D Builder](https://www.microsoft.com/en-us/p/3d-builder/9wzdncrfj3t6), kao i kodom vođeni [OpenSCAD](https://www.openscad.org/). Glavni izučeni format bio je tekstualni i binarni stereolitografski (STL) i OpenSCAD-ov kod, a izrađeni su i tekstualni Wavefront object (OBJ) i Polygon File Format / Stanford Triangle Format (PLY), kao i na XML-u zasnovana COLLADA (DAE – digital asset exchange).
